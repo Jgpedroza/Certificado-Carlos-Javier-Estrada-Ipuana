@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificado de Depósito</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .certificate-container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #333;
+        }
+        .content {
+            line-height: 1.6;
+            color: #555;
+        }
+        .content p {
+            margin: 8px 0;
+        }
+        .signatures {
+            margin-top: 30px;
+        }
+        .signature {
+            display: inline-block;
+            width: 48%;
+            text-align: center;
+            margin-top: 30px;
+        }
+        .signature-line {
+            margin-top: 60px;
+            border-top: 1px solid #333;
+            width: 80%;
+            margin: 0 auto;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 12px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="certificate-container">
+        <div class="header">
+            <h1>Créditos al Instante S.A.S</h1>
+            <h2>Certificado de Depósito</h2>
+        </div>
+        <div class="content">
+            <p><strong>Número de Certificado:</strong> 2697436</p>
+            <p><strong>Fecha de Emisión:</strong> 30 de julio de 2024</p>
+            <p><strong>Nombre del Titular:</strong> Carlos Javier Estrada Ipuana</p>
+            <p><strong>Monto Depositado:</strong> $530,000</p>
+            <p><strong>Plazo del Depósito:</strong> 1 mes</p>
+            <p><strong>Tasa de Interés Mensual:</strong> 10%</p>
+            <p><strong>Fecha de Vencimiento:</strong> 20 de agosto de 2024</p>
+        </div>
+                <div class="footer">
+            <p>Este certificado acredita la existencia del depósito arriba mencionado, conforme a los términos y condiciones estipulados.</p>
+        </div>
+    </div>
+</body>
+</html>
